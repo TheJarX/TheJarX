@@ -1,6 +1,6 @@
 ### Hi there this is Gerard (TheJarX) 👋🏻
 
-- 🔭 I’m currently working on Uaiki (uses gitlab so I'm there at the moment)
+- 🔭 I’m work at Archdaily
 - 👯 I’m looking to collaborate on anything, I'm starting in this world
 - 🌱 I’m currently learning Rails 🙌🏻 (again)
 - 📫 How to reach me: hello@itsgerard.com
