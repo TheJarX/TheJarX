@@ -11,7 +11,7 @@ My journey started when I was trying to look cool doing stuff with the computer.
 * 🚀  I'm currently working on [Kuroro Beasts](http://kurorobeasts.com/)
 * 🧠  I'm learning NestJs
 
-### Skills
+### I've worked with
 
 <p align="left">
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
