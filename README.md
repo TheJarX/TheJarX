@@ -8,8 +8,6 @@ My journey started when I was trying to look cool doing stuff with the computer.
 
 * 🖥️  See my portfolio at [itsgerard.com](http://itsgerard.com)
 * ✉️  You can contact me at [hello@itsgerard.com](mailto:hello@itsgerard.com)
-* 🚀  I'm currently working on [Kuroro Beasts](http://kurorobeasts.com/)
-* 🧠  I'm learning NestJs
 
 ### I've worked with
 
@@ -48,7 +46,5 @@ My journey started when I was trying to look cool doing stuff with the computer.
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/TheJarX"><img src="https://github-readme-stats.vercel.app/api?username=TheJarX&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TheJarX's GitHub stats" /></a>
-
-<a href="http://www.github.com/TheJarX"><img src="https://activity-graph.herokuapp.com/graph?username=TheJarX&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/TheJarX" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJarX&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
